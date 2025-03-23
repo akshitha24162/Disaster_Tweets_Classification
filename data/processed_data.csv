@@ -1,0 +1,16 @@
+tweets,target,clean_text
+There's a flood in my city!,1,theres flood city
+Having a great day at the beach!,0,great day beach
+Earthquake in California,1,earthquake california
+Nice sunny weather today!,0,nice sunny weather today
+tweets,target,tweets
+There's a flood in my city!,1,theres flood city
+Having a great day at the beach!,0,great day beach
+Earthquake in California,1,earthquake california
+Nice sunny weather today!,0,nice sunny weather today
+Wildfire spreading fast!,1,wildfire spreading fast
+Going to the mall with friends.,0,going mall friends
+Heavy storm expected tonight.,1,heavy storm expected tonight
+Great movie night!,0,great movie night
+Volcano eruption warning issued!,1,volcano eruption warning issued
+Had a relaxing weekend.,0,relaxing weekend
